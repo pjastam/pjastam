@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I'm currently working on making my 1993 MSc thesis reproducible, converting Fortran/Turbo Pascal/Matlab code to R code
+- 🌱 I’m currently learning about [Public Finance and Public Policy](https://www.youtube.com/watch?v=cUGMr7wIppk&list=PL_1TbuIu65A-9f_HbjKJDLLSZPl7Cb0Dz) @YouTube
+- 💬 Ask me about R, health economics and econometrics
